@@ -38,7 +38,7 @@ class Avisos extends Migration
                 'type' => 'VARCHAR',
                 'constraint' => 50,
                 'null' => true
-            ]
+            ],
             'created_at' => [
                 'type' => 'DATETIME',
                 'null' => true
